@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="Input1">Title</string>
+    <string name="InputPrompt1">Enter movie title here</string>
+    <string name="Input2">Genre</string>
+    <string name="InputPrompt2">Enter Genre here</string>
+    <string name="Input3">Year</string>
+    <string name="InputPrompt3">Enter year of release here</string>
+    <string name="Input4">Rating</string>
+    <string name="Input4.1">G</string>
+    <string name="Input4.2">PG</string>
+    <string name="Input4.3">NC16</string>
+    <string name="Input4.4">M18</string>
+    <string name="Input4.5">R21</string>
+    <string name="FinalButton">Submit</string>
+    <string name="ViewListings">Show List</string>
+    <string name="UpdateButton">Update</string>
+    <string name="DeletButton">Delete</string>
+    <string name="CancelButton">Cancel</string>
+    <string name="tv1">Title</string>
+    <string name="tv2">Year</string>
+    <string name="tv3">Genre</string>
+    <string name="tv4">Rating</string>
+</resources>
